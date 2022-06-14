@@ -1,0 +1,1 @@
+JavaScript o'zgaruvchilari e'lon qilinganda, ular boshlang'ich qiymatiga ega bo'ladi undefined. Agar siz undefinedo'zgaruvchida matematik operatsiya qilsangiz, natijangiz "Raqam emas"NaN degan ma'noni anglatadi . Agar siz satrni o'zgaruvchi bilan birlashtirsangiz, siz qatorni olasiz .undefinedundefined

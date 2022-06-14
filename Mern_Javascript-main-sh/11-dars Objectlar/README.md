@@ -1,0 +1,1 @@
+obj bu arreyga o'xshaydi faqat bu aniq bir narsani toldirish uchun kerak boladi 
